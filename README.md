@@ -2,9 +2,9 @@
 
 Tecnologias Utilizadas
 n8n 
-**Gemini API
-**Evolution API / Waha 
-**Contabo/Inicialmente Docker
+**Gemini API.
+**Evolution API / Waha. 
+**Contabo/Inicialmente Docker.
 
 Como usar
 1. Importe o arquivo `.json` presente neste repositório para o seu n8n.
