@@ -1,7 +1,7 @@
 #N8N-Barbearia: Automação de Atendimento Inteligente
 
 Tecnologias Utilizadas
-n8n 
+**n8n 
 **Gemini API.
 **Evolution API / Waha. 
 **Contabo/Inicialmente Docker.
